@@ -1,3 +1,0 @@
-VQA: visual quesetioning and answering
-영상을 보고 내용을 말해주는 분야
-
